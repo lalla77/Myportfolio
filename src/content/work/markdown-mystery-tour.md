@@ -13,11 +13,10 @@ tags:
 
 ## Level-two heading
 
-> ce jeu vous invite à plonger dans une expérience immersive, où vous découvrirez les trésors cachés de la Mauritanie et vivrez des aventures palpitantes.
-
+> this game invites you to dive into an immersive experience, where you will discover the hidden treasures of Mauritania and experience thrilling adventures.
 ### Level-three heading
 
-Notre jeu vidéo unique en son genre, qui met en avant le riche patrimoine culturel de la Mauritanie à travers l'univers envoûtant de Chuiguitty !
+Our unique video game, which highlights the rich cultural heritage of Mauritania through the captivating world of Chuiguitty!
 
 #### Level-four heading
 
